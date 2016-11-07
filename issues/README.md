@@ -1,6 +1,6 @@
 # Issues
 
-**TODO: Add description**
+**TODO: Practice exercieses from Programming Elixir**
 
 ## Installation
 
